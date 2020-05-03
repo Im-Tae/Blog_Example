@@ -2,12 +2,13 @@ package com.leaf.android_databinding_example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import com.leaf.android_databinding_example.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding
 
     val user = User("ImLeaf", "18", null)
 
@@ -18,4 +19,6 @@ class MainActivity : AppCompatActivity() {
         binding.main = this
 
     }
+
+    fun hello() = Toast.makeText(this, "Hello!", Toast.LENGTH_SHORT).show()
 }
