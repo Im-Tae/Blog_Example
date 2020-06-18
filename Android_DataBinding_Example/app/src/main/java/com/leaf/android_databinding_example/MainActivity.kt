@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
+    // MainActivity.kt
     val user = User("ImLeaf", "18", null)
 
     override fun onCreate(savedInstanceState: Bundle?) {
