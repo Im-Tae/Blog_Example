@@ -6,7 +6,7 @@ import java.io.IOException
 
 class HttpGetExample {
     private val client : OkHttpClient = OkHttpClient()
-    private val URL_README = "https://raw.githubusercontent.com/Im-Tae/RxJava2_Study/master/samples/README_TEST.md"
+    private val URL_README = "https://raw.githubusercontent.com/Im-Tae/Blog_Example/master/RxJava/samples/README_TEST.md"
 
     fun run() {
         val request = Request.Builder()

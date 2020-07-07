@@ -11,7 +11,7 @@ class CommonUtils {
     companion object {
 
         var startTime: Long? = null
-        var GITHUB_ROOT = "https://raw.githubusercontent.com/Im-Tae/RxJava2_Study/master"
+        var GITHUB_ROOT = "https://raw.githubusercontent.com/Im-Tae/Blog_Example/master/RxJava"
 
 
         fun start() {
