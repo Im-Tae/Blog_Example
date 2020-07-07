@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6733429d-121b-47ed-a271-56f9b2bf06ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/RxJavaStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/RxJavaStudy.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chapter02/ConnectableObservableExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chapter02/ConnectableObservableExample.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YONBTnIAZI8lJJXs96Gl1D0vjK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ImTae\Documents\GitHub\RxJava2_Study\src\main\kotlin\chapter02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ImTae\Documents\GitHub\RxJava2_Study\src\main\kotlin\chapter04\create" />
+      <recent name="C:\Users\ImTae\Documents\GitHub\RxJava2_Study\src\main\kotlin\chapter03" />
+      <recent name="C:\Users\ImTae\Documents\GitHub\RxJava2_Study\src\main\kotlin\chapter01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.TestKt">
+    <configuration name="BufferExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="RxJavaStudy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter07.flowcontrol.BufferExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebounceExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="RxJavaStudy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter07.flowcontrol.DebounceExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="RxJavaStudy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrottleFirstExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="RxJavaStudy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter07.flowcontrol.ThrottleFirstExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="RxJavaStudy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter07.flowcontrol.WindowExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.DebounceExampleKt" />
+        <item itemvalue="Kotlin.WindowExampleKt" />
+        <item itemvalue="Kotlin.ThrottleFirstExampleKt" />
+        <item itemvalue="Kotlin.BufferExampleKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6733429d-121b-47ed-a271-56f9b2bf06ff" name="Default Changelist" comment="" />
+      <created>1582809544552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582809544552</updated>
+      <workItem from="1582809547982" duration="564000" />
+      <workItem from="1582810561086" duration="38000" />
+      <workItem from="1582810616057" duration="706000" />
+      <workItem from="1582824247640" duration="1209000" />
+      <workItem from="1582914213815" duration="1938000" />
+      <workItem from="1582934408458" duration="2075000" />
+      <workItem from="1582982638411" duration="3417000" />
+      <workItem from="1583144333040" duration="4185000" />
+      <workItem from="1583341393518" duration="1507000" />
+      <workItem from="1583344229003" duration="3606000" />
+      <workItem from="1583491444811" duration="2353000" />
+      <workItem from="1583600519814" duration="6000" />
+      <workItem from="1584520099071" duration="3131000" />
+      <workItem from="1584605868110" duration="2091000" />
+      <workItem from="1584688018911" duration="5618000" />
+      <workItem from="1584770399617" duration="8038000" />
+      <workItem from="1584814247680" duration="8886000" />
+      <workItem from="1584942460934" duration="632000" />
+      <workItem from="1584970805809" duration="100000" />
+      <workItem from="1585033293110" duration="12686000" />
+      <workItem from="1585122269707" duration="9470000" />
+      <workItem from="1585237897695" duration="10665000" />
+      <workItem from="1585336670951" duration="19735000" />
+      <workItem from="1585398250151" duration="7864000" />
+      <workItem from="1585412508744" duration="5793000" />
+      <workItem from="1585509056282" duration="25000" />
+      <workItem from="1585804737864" duration="1000" />
+      <workItem from="1586503996276" duration="112000" />
+      <workItem from="1586521051695" duration="941000" />
+      <workItem from="1586525608026" duration="1221000" />
+      <workItem from="1586843890330" duration="64000" />
+      <workItem from="1588180689936" duration="2397000" />
+      <workItem from="1588236355568" duration="3051000" />
+      <workItem from="1588330295968" duration="1198000" />
+      <workItem from="1588917787146" duration="2591000" />
+      <workItem from="1589019704920" duration="3475000" />
+      <workItem from="1589044567317" duration="603000" />
+      <workItem from="1589105843103" duration="5155000" />
+      <workItem from="1589119787770" duration="7487000" />
+      <workItem from="1589351633250" duration="280000" />
+      <workItem from="1589351935137" duration="599000" />
+      <workItem from="1589429160459" duration="3415000" />
+      <workItem from="1589456104974" duration="7044000" />
+      <workItem from="1589632776627" duration="3000" />
+      <workItem from="1589971823636" duration="9379000" />
+      <workItem from="1590657722944" duration="204000" />
+      <workItem from="1590664652068" duration="447000" />
+      <workItem from="1590707290412" duration="24000" />
+      <workItem from="1592976882736" duration="7285000" />
+      <workItem from="1592989455444" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1589021375797">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="710" y="175" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589021375797" />
+    <state x="690" y="224" key="FileChooserDialogImpl" timestamp="1589351850908">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="224" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589351850908" />
+    <state width="1852" height="274" key="GridCell.Tab.0.bottom" timestamp="1590665100518">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589552613421" />
+    <state width="1852" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590665100518" />
+    <state width="1852" height="274" key="GridCell.Tab.0.center" timestamp="1590665100517">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="277" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589552613420" />
+    <state width="1852" height="274" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590665100517" />
+    <state width="1852" height="274" key="GridCell.Tab.0.left" timestamp="1590665100517">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="277" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589552613420" />
+    <state width="1852" height="274" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590665100517" />
+    <state width="1852" height="274" key="GridCell.Tab.0.right" timestamp="1590665100517">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="277" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589552613421" />
+    <state width="1852" height="274" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590665100517" />
+    <state width="934" height="339" key="GridCell.Tab.1.bottom" timestamp="1585054147397">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="934" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585054147397" />
+    <state width="934" height="339" key="GridCell.Tab.1.center" timestamp="1585054147397">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="934" height="339" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585054147397" />
+    <state width="934" height="339" key="GridCell.Tab.1.left" timestamp="1585054147397">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="934" height="339" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585054147397" />
+    <state width="934" height="339" key="GridCell.Tab.1.right" timestamp="1585054147397">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="934" height="339" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585054147397" />
+    <state x="389" y="83" key="SettingsEditor" timestamp="1589351913087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="389" y="83" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589351913087" />
+    <state x="574" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1590707299076">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="574" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589632777620" />
+    <state x="574" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590707299076" />
+    <state x="122" y="51" key="new project wizard" timestamp="1589433551149">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="122" y="51" key="new project wizard/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589433551149" />
+    <state x="532" y="239" key="run.anything.popup" timestamp="1589455476249">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="239" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589455476249" />
+    <state x="532" y="0" width="840" height="1032" key="search.everywhere.popup" timestamp="1589975969334">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="0" width="840" height="1032" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585408559711" />
+    <state x="532" y="0" width="840" height="1032" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589975969334" />
+  </component>
+</project>
