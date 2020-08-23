@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/start_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="서비스 시작" />
+
+    <Button
+        android:id="@+id/start_intent_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="인텐트 서비스 시작" />
+
+    <Button
+        android:id="@+id/start_foreground_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Foreground 서비스 시작" />
+
+    <Button
+        android:id="@+id/stop_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="서비스 중지" />
+
+</LinearLayout>
