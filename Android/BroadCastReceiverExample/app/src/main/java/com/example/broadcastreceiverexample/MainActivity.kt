@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun addReceiver() {
 
-        if(Build.VERSION.SDK_INT > Build.VERSION_CODES.O) {
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
             myReceiver = MyReceiver()
 

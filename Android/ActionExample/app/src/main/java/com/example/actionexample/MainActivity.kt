@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun checkPermission() {
 
-        if (Build.VERSION.SDK_INT > Build.VERSION_CODES.M) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
 
             for (permission in permissionList) {
 
